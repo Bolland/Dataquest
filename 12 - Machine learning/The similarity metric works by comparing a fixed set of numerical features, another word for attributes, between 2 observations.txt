@@ -1,0 +1,2 @@
+The similarity metric works by comparing a fixed set of numerical features, another word for attributes, between 2 observations, or living spaces in our case. When trying to predict a continuous value, like price, the main similarity metric that's used is Euclidean distance. Here's the general formula for Euclidean distance:
+
